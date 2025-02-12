@@ -8,7 +8,7 @@ I created this repository to store and share the knowledge and research I gain a
 
 
 ### Repository Structure
-- [***Lang Chain***](https://github.com/alirezasaharkhiz9/NLP-LLM/tree/main/LangChain)
+- [***LangChain***](https://github.com/alirezasaharkhiz9/NLP-LLM/tree/main/LangChain)
 
   1. [Models - Inputs And Outputs (IO)](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/InputsAndOutputs.ipynb)
 

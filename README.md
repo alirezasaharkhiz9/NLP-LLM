@@ -13,6 +13,7 @@ I created this repository to store and share the knowledge and research I gain a
   1. [Models - Inputs And Outputs (IO)](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/InputsAndOutputs.ipynb)
 
   2. [Data Connection](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/DataConnection.ipynb)
+  3. [Chains](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Chains.ipynb)
 
 ### Requirements
 

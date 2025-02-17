@@ -14,6 +14,7 @@ I created this repository to store and share the knowledge and research I gain a
 
   2. [Data Connection](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/DataConnection.ipynb)
   3. [Chains](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Chains.ipynb)
+  4. [Memory](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Memory.ipynb)
 
 ### Requirements
 

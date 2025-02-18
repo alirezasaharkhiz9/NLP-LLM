@@ -10,12 +10,17 @@ I created this repository to store and share the knowledge and research I gain a
 ### Repository Structure
 - [***LangChain***](https://github.com/alirezasaharkhiz9/NLP-LLM/tree/main/LangChain)
 
-  1. [Models - Inputs And Outputs (IO)](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/InputsAndOutputs.ipynb)
+  * [Models - Inputs And Outputs (IO)](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/InputsAndOutputs.ipynb)
 
-  2. [Data Connection](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/DataConnection.ipynb)
-  3. [Chains](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Chains.ipynb)
-  4. [Memory](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Memory.ipynb)
-  5. [Agents](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Agents.ipynb)
+  * [Data Connection](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/DataConnection.ipynb)
+  * [Chains](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Chains.ipynb)
+  * [Memory](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Memory.ipynb)
+  * [Agents](https://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/LangChain/Agents.ipynb)
+
+- [***User Interfaces***](https://github.com/alirezasaharkhiz9/NLP-LLM/tree/main/User%20Interfaces)
+
+
+  * [Gradio](http://github.com/alirezasaharkhiz9/NLP-LLM/blob/main/User%20Interfaces/Gradio.ipynb)
 
 ### Requirements
 
